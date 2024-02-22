@@ -1,0 +1,19 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "whatsapp Bot",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shyam",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "langchain": "^0.1.20",
+    "supabase": "^1.145.4"
+  }
+}
